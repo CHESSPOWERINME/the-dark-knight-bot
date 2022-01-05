@@ -1,5 +1,5 @@
 #Repo Clonning ⚡♥️
-RUN git clone https://github.com/CHESSPOWERINME/the-dark-knight-.git /root/userbot
+RUN git clone https://github.com/CHESSPOWERINME/the-dark-knight-bot.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
